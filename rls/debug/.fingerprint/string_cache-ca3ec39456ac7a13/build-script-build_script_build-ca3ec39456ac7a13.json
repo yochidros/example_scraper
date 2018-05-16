@@ -1,0 +1,1 @@
+{"rustc":17984084537889596998,"features":"[]","target":13123923088509177768,"profile":7282077418741342047,"path":7931595890814360869,"deps":[["string_cache_codegen v0.4.1","string_cache_codegen",6775957072861827028]],"local":[{"Precalculated":"0.7.2"}],"rustflags":[],"edition":"Edition2015"}

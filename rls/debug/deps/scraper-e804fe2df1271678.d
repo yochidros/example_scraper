@@ -1,0 +1,12 @@
+/Users/yochio/yochio/rust/example_scape/rls/debug/deps/scraper-e804fe2df1271678.rmeta: /Users/yochio/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.6.0/src/lib.rs /Users/yochio/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.6.0/src/html/mod.rs /Users/yochio/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.6.0/src/html/tree_sink.rs /Users/yochio/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.6.0/src/node.rs /Users/yochio/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.6.0/src/element_ref/mod.rs /Users/yochio/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.6.0/src/element_ref/element.rs /Users/yochio/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.6.0/src/element_ref/serializable.rs /Users/yochio/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.6.0/src/selector.rs
+
+/Users/yochio/yochio/rust/example_scape/rls/debug/deps/scraper-e804fe2df1271678.d: /Users/yochio/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.6.0/src/lib.rs /Users/yochio/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.6.0/src/html/mod.rs /Users/yochio/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.6.0/src/html/tree_sink.rs /Users/yochio/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.6.0/src/node.rs /Users/yochio/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.6.0/src/element_ref/mod.rs /Users/yochio/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.6.0/src/element_ref/element.rs /Users/yochio/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.6.0/src/element_ref/serializable.rs /Users/yochio/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.6.0/src/selector.rs
+
+/Users/yochio/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.6.0/src/lib.rs:
+/Users/yochio/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.6.0/src/html/mod.rs:
+/Users/yochio/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.6.0/src/html/tree_sink.rs:
+/Users/yochio/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.6.0/src/node.rs:
+/Users/yochio/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.6.0/src/element_ref/mod.rs:
+/Users/yochio/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.6.0/src/element_ref/element.rs:
+/Users/yochio/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.6.0/src/element_ref/serializable.rs:
+/Users/yochio/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.6.0/src/selector.rs:

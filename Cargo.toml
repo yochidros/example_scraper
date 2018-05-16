@@ -6,3 +6,7 @@ authors = ["yochidrop <miyazawa@nagisa-inc.jp>"]
 [dependencies]
 reqwest = "0.8.5"
 scraper = "0.6.0"
+
+serde = "*"
+serde_derive = "*"
+serde_json = "*"
